@@ -9,10 +9,10 @@ topnav_title: Test Blog
 site_title: My Test Blog
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Copyright 2021 Google LLC
+company_name: Copyright 2023 myTest
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: www.github.com
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -117,4 +117,4 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 github: [metadata]
 
 
-# Copyright 2021 Google LLC
+# Copyright 2023 Google LLC
