@@ -15,14 +15,17 @@ h4 {color: #808080; }
 
 .nav > li.active > a {
     background-color: #26424b;
+    color: white;
 }
 
 .nav > li > a:hover {
     background-color: #26424b;
+    color: white;
 }
 
 div.navbar-collapse .dropdown-menu > li > a:hover {
     background-color: #26424b;
+    color: white;
 }
 
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
