@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
       
-  - title: 테스트 네비바
+  - title: 델타레이크
     output: web, pdf
     folderitems:
 
@@ -32,13 +32,32 @@ entries:
       url: /mydoc_test1.html
       output: web, pdf
 
-    - title: 세번째메뉴
-      url: /mydoc_supported_features.html
+  - title: 스파크
+    output: web, pdf
+    folderitems:
+
+    - title: 첫번째메뉴
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: 두번째메뉴
+      url: /mydoc_test1.html
+      output: web, pdf
+      
+  - title: 엠엘플로우
+    output: web, pdf
+    folderitems:
+
+    - title: 첫번째메뉴
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: 두번째메뉴
+      url: /mydoc_test1.html
       output: web, pdf
 
-    - title: 네번째메뉴
-      url: /mydoc_about.html
-      output: web, pdf
       
   - title: Overview
     output: web, pdf
