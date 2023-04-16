@@ -1,4 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: deepine/deepine.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Test documentation theme
 
 feedback_email: test@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
