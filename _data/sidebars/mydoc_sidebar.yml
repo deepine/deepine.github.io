@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: 첫번째메뉴
-      url: /index.html
+      url: /mydoc_00001.html
       output: web, pdf
       type: homepage
 
