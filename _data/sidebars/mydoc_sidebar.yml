@@ -29,7 +29,7 @@ entries:
       type: homepage
 
     - title: 두번째메뉴
-      url: /mydoc_test1.html
+      url: /mydoc_00002.html
       output: web, pdf
 
   - title: 스파크
